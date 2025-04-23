@@ -21,6 +21,10 @@ Este dashboard foi criado com foco no monitoramento de indicadores de desempenho
 
 O objetivo deste projeto foi **praticar a construção de dashboards industriais no Power BI**, trabalhando com métricas como produtividade, eficiência, qualidade e disponibilidade. Além disso, foi um exercício prático de visualização de KPIs operacionais e de aplicação de filtros dinâmicos.
 
+## 🎲 Fonte dos Dados
+
+Os dados utilizados neste dashboard são fictícios e foram criados apenas para fins educacionais e de demonstração durante o intensivão de Power BI da [Hashtagtreinamentos](https://www.hashtagtreinamentos.com).
+
 ## 🔗 Acesse o Dashboard Online
 
 [Clique aqui para acessar o dashboard interativo no Power BI](https://app.powerbi.com/view?r=eyJrIjoiMjI5ZTUxNTctODVjZS00ODhkLTgxMWUtMjJlZmNhNTQ0OWJmIiwidCI6ImRiYTQ3MzJjLTU5ZWMtNDFlYi05NDdjLTdkN2UxOTUzOWRhYSJ9)
